@@ -5,7 +5,7 @@ datePublished: Mon Oct 23 2023 16:23:19 GMT+0000 (Coordinated Universal Time)
 cuid: clo33x0if000009mibua9fttt
 slug: dockerize-react-application
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698074268110/2ca54734-fb0b-4caa-9009-781cb76cca8d.jpeg
-tags: docker, reactjs, containerization
+tags: docker, reactjs, containerization, 2articles1week, dockerize-react-app
 
 ---
 
